@@ -5,10 +5,12 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RestController;
+import springfox.documentation.annotations.ApiIgnore;
 
 /**
  * 注意 要先在mysql 中创建表 stu
  */
+@ApiIgnore//加上这个注解 这个控制层接口将不会展示在swagger2文档中。
 @RestController
 public class StuController {
 
