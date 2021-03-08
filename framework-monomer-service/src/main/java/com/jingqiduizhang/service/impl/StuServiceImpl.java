@@ -55,7 +55,7 @@ public class StuServiceImpl implements StuService {
         stu.setAge(19);
         stuMapper.insert(stu);
     }
-    @Transactional(propagation = Propagation.REQUIRED)
+    @Transactional(propagation = Propagation.NESTED)
     public void saveChildren() {
         saveChild1();
         int a = 1 / 0;
