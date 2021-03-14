@@ -3,12 +3,10 @@ package com.jingqiduizhang.controller;
 import com.jingqiduizhang.pojo.Users;
 import com.jingqiduizhang.pojo.bo.UserBO;
 import com.jingqiduizhang.service.UserService;
-import com.jingqiduizhang.utils.CookieUtils;
-import com.jingqiduizhang.utils.IMOOCJSONResult;
-import com.jingqiduizhang.utils.JsonUtils;
-import com.jingqiduizhang.utils.MD5Utils;
+import com.jingqiduizhang.utils.*;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
+import io.swagger.annotations.ApiParam;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
@@ -151,4 +149,30 @@ public class PassportController {
         return IMOOCJSONResult.ok();
     }
 
+
+
+    @ApiOperation(value = "分页测试", notes = "分页测试", httpMethod = "GET")
+    @GetMapping("/users/pageList")
+    public IMOOCJSONResult comments(
+            @ApiParam(name = "userName", value = "userName", required = false)
+            @RequestParam String userName,
+            @ApiParam(name = "page", value = "查询下一页的第几页", required = false)
+            @RequestParam Integer page,
+            @ApiParam(name = "pageSize", value = "分页的每一页显示的条数", required = false)
+            @RequestParam Integer pageSize) {
+
+        if (page == null) {
+            page = 1;
+        }
+
+        if (pageSize == null) {
+            pageSize = 20;
+        }
+
+        PagedGridResult grid = userService.queryPagedUsersTest(userName,
+                page,
+                pageSize);
+
+        return IMOOCJSONResult.ok(grid);
+    }
 }

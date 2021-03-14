@@ -1,5 +1,7 @@
 package com.jingqiduizhang.service.impl;
 
+import com.github.pagehelper.PageHelper;
+import com.github.pagehelper.PageInfo;
 import com.jingqiduizhang.enums.Sex;
 import com.jingqiduizhang.mapper.UsersMapper;
 import com.jingqiduizhang.pojo.Users;
@@ -7,6 +9,7 @@ import com.jingqiduizhang.pojo.bo.UserBO;
 import com.jingqiduizhang.service.UserService;
 import com.jingqiduizhang.utils.DateUtil;
 import com.jingqiduizhang.utils.MD5Utils;
+import com.jingqiduizhang.utils.PagedGridResult;
 import org.n3r.idworker.Sid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -15,6 +18,7 @@ import org.springframework.transaction.annotation.Transactional;
 import tk.mybatis.mapper.entity.Example;
 
 import java.util.Date;
+import java.util.List;
 
 @Service
 public class UserServiceImpl implements UserService {
@@ -97,5 +101,30 @@ public class UserServiceImpl implements UserService {
         Users result = usersMapper.selectOneByExample(userExample);
 
         return result;
+    }
+
+    @Transactional(propagation = Propagation.SUPPORTS)
+    @Override
+    public PagedGridResult queryPagedUsersTest(String userName, Integer page, Integer pageSize) {
+        Example itemsImgExp = new Example(Users.class);
+        Example.Criteria criteria = itemsImgExp.createCriteria();
+        criteria.andEqualTo("username", userName);
+        /**
+         * mybatis-pagehelper
+         * page: 第几页
+         * pageSize: 每页显示条数
+         */
+        PageHelper.startPage(page, pageSize);
+     List<Users> list = usersMapper.selectByExample(itemsImgExp);
+    return setterPagedGrid(list, page);
+}
+    private PagedGridResult setterPagedGrid(List<?> list, Integer page) {
+        PageInfo<?> pageList = new PageInfo<>(list);
+        PagedGridResult grid = new PagedGridResult();
+        grid.setPage(page);
+        grid.setRows(list);
+        grid.setTotal(pageList.getPages());
+        grid.setRecords(pageList.getTotal());
+        return grid;
     }
 }
