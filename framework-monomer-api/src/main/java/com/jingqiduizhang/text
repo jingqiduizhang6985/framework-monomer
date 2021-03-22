@@ -1,0 +1,7328 @@
+[
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614355372000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614355552000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614355732000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614355913000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614356093000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614356273000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614356453000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614356633000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614356813000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614356994000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614357174000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614357354000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614357534000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614357714000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614357895000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614358075000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614358255000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614358435000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614358615000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614358795000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614358976000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614359156000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614359336000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614359516000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614359696000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614359876000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614360057000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614360237000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614360417000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614360597000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614360777000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614360958000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614361138000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614361318000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614361498000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614361678000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614361858000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614362039000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614362219000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614362399000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614362579000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614362759000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614362940000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614362940000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614362940000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614363120000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614363300000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614363480000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614363660000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614363840000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614364021000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614364201000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614364381000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614364561000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614364741000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614364921000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614365102000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614365282000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614365462000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614365642000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614365822000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614366003000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614366183000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614366363000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614366543000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614366723000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614366903000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614367084000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614367264000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614367444000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614367624000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614367804000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614367985000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614368165000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614368345000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614368525000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614368705000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614368885000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614369066000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614369246000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614369426000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614369606000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614369786000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614369966000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614370147000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614370327000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614370507000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614370687000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614370867000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614371048000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614371228000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614371408000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614371588000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614371768000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614371948000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614372129000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614372309000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614372489000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614372669000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614372849000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614373030000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614373210000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614373390000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614373570000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614373750000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614373930000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614374111000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614374291000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614374471000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614374651000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614374831000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614375011000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614375192000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614375372000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614375552000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614375732000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614375912000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614376093000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614376273000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614376453000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614376633000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614376813000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614376993000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614377174000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614377354000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614377534000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614377714000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614377894000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614378075000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614378255000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614378435000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614378615000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614378795000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614378975000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614379156000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614379336000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614379516000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614379696000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614379876000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614380056000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614380237000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614380417000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614380597000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614380777000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614380957000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614381138000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614381318000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614381498000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614381678000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614381858000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614382038000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614382219000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614382399000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614382579000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614382759000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614382939000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614383119000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614383300000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614383480000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614383660000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614383840000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614384020000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614384201000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614384381000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614384561000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614384741000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614384921000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614385101000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614385282000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614385395000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614385395000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614385425000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614385455000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614385464000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614385464000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614385485000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614385515000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614385545000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614385575000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614385575000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614385605000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614385635000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614385665000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614385695000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614385875000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614386055000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614386236000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614386416000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614386596000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614386776000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614386956000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614387137000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614387317000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614387497000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614387677000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614387857000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614388037000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614388218000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614388398000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614388578000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614388758000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614388938000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614389118000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614389299000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614389479000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614389659000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614389839000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614390019000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614390200000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614390380000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614390560000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614390740000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614390920000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614391100000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614391281000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614391461000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614391641000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614391821000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614392001000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614392182000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614392362000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614392542000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614392722000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614392902000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.982861762003,
+                26.5812011955274
+            ]
+        },
+        gpsTime: NumberLong(1614393082000),
+        speed: 2.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.984193717717,
+                26.5837916683998
+            ]
+        },
+        gpsTime: NumberLong(1614393121000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.984122512555,
+                26.5837744666933
+            ]
+        },
+        gpsTime: NumberLong(1614393126000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983971076535,
+                26.5837380379683
+            ]
+        },
+        gpsTime: NumberLong(1614393157000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614393186000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614393216000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614393246000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614393276000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614393306000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614393336000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614393366000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614393396000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614393576000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614393756000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614393936000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614394117000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614394297000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614394477000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614394657000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614394837000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614395018000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614395198000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614395378000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614395558000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614395738000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614395918000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614396099000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614396279000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614396459000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614396639000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614396819000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614396999000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614397180000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614397360000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614397540000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614397720000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614397900000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614398081000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614398261000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614398441000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614398621000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614398801000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614398981000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614399162000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614399342000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614399522000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614399702000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614399882000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614400062000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614400243000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614400423000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614400603000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614400783000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614400963000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614401144000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614401324000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614401504000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614401684000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614401864000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614402044000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614402225000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614402405000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614402585000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614402765000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614402945000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614403125000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614403306000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614403306000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614403486000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614403666000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614403846000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614404026000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614404207000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614404387000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614404567000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614404747000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614404927000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614405107000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614405288000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614405468000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614405648000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614405828000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614406008000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614406189000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614406369000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614406549000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614406729000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614406909000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614407089000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614407270000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614407450000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614407630000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614407810000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614407990000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614408170000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614408351000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614408531000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614408711000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614408891000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614409071000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614409252000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614409432000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614409612000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614409792000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614409972000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614410152000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614410333000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614410513000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614410693000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614410873000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614411053000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614411233000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614411414000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614411594000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614411774000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614411954000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614412134000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614412315000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614412495000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614412675000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614412855000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614413035000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614413215000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614413396000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614413576000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614413756000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614413936000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614414116000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614414296000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614414477000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614414657000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614414837000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614415017000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614415197000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614415378000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614415558000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614415738000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614415918000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614416098000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614416278000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614416459000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614416639000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614416819000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614416999000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614417179000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614417359000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614417540000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614417720000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614417900000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614418080000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614418260000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614418441000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614418621000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614418801000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614418981000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614419161000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614419341000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614419522000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614419702000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614419882000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614420062000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614420242000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614420423000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614420603000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614420783000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614420963000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614421143000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614421323000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614421504000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614421684000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614421864000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614422044000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614422224000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614422405000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614422585000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614422765000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614422945000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614423125000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614423305000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614423486000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614423666000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614423846000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614424026000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614424206000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614424386000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614424567000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614424747000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614424927000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614425107000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614425287000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614425468000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614425648000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614425828000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614426008000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614426188000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614426368000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614426549000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614426729000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614426909000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614427089000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614427269000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614427449000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614427630000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614427810000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614427990000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614428170000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614428350000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614428531000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614428711000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614428891000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614429071000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614429251000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614429431000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614429612000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614429792000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614429972000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614430152000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614430332000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.983924943552,
+                26.5837229079387
+            ]
+        },
+        gpsTime: NumberLong(1614430474000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.98394500163,
+                26.5837339639132
+            ]
+        },
+        gpsTime: NumberLong(1614393399000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.98394500163,
+                26.5837339639132
+            ]
+        },
+        gpsTime: NumberLong(1614430504000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.98394500163,
+                26.5837339639132
+            ]
+        },
+        gpsTime: NumberLong(1614430535000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.980823104789,
+                26.5828792276828
+            ]
+        },
+        gpsTime: NumberLong(1614430564000),
+        speed: 26.3
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.978818518446,
+                26.5827016665379
+            ]
+        },
+        gpsTime: NumberLong(1614430594000),
+        speed: 8.3
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.978384318562,
+                26.5826384755819
+            ]
+        },
+        gpsTime: NumberLong(1614430624000),
+        speed: 23.9
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.976187311404,
+                26.5822715160682
+            ]
+        },
+        gpsTime: NumberLong(1614430654000),
+        speed: 33.5
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.97431529048,
+                26.5820425115929
+            ]
+        },
+        gpsTime: NumberLong(1614430683000),
+        speed: 28.4
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.972344099887,
+                26.5817683352035
+            ]
+        },
+        gpsTime: NumberLong(1614430714000),
+        speed: 28.2
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.970949492744,
+                26.5815937284955
+            ]
+        },
+        gpsTime: NumberLong(1614430737000),
+        speed: 16.2
+    },
+    {
+        course: NumberInt(9080),
+        location: {
+            loc: [
+                107.970822170752,
+                26.5816563916974
+            ]
+        },
+        gpsTime: NumberLong(1614430744000),
+        speed: 4.0
+    },
+    {
+        course: NumberInt(9090),
+        location: {
+            loc: [
+                107.970706906832,
+                26.5821780282691
+            ]
+        },
+        gpsTime: NumberLong(1614430774000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9090),
+        location: {
+            loc: [
+                107.970649769964,
+                26.5823308617141
+            ]
+        },
+        gpsTime: NumberLong(1614430798000),
+        speed: 13.6
+    },
+    {
+        course: NumberInt(9090),
+        location: {
+            loc: [
+                107.970554529929,
+                26.5823786104179
+            ]
+        },
+        gpsTime: NumberLong(1614430804000),
+        speed: 6.5
+    },
+    {
+        course: NumberInt(9090),
+        location: {
+            loc: [
+                107.970404095101,
+                26.5814923357623
+            ]
+        },
+        gpsTime: NumberLong(1614430827000),
+        speed: 18.6
+    },
+    {
+        course: NumberInt(9090),
+        location: {
+            loc: [
+                107.970095307579,
+                26.5814345507359
+            ]
+        },
+        gpsTime: NumberLong(1614430833000),
+        speed: 15.2
+    },
+    {
+        course: NumberInt(9090),
+        location: {
+            loc: [
+                107.970023124664,
+                26.5814343658914
+            ]
+        },
+        gpsTime: NumberLong(1614430835000),
+        speed: 13.1
+    },
+    {
+        course: NumberInt(9090),
+        location: {
+            loc: [
+                107.969761460887,
+                26.5813997013147
+            ]
+        },
+        gpsTime: NumberLong(1614430863000),
+        speed: 15.4
+    },
+    {
+        course: NumberInt(9090),
+        location: {
+            loc: [
+                107.968592518671,
+                26.5812167584235
+            ]
+        },
+        gpsTime: NumberLong(1614430881000),
+        speed: 22.3
+    },
+    {
+        course: NumberInt(9090),
+        location: {
+            loc: [
+                107.967799545869,
+                26.5810867840542
+            ]
+        },
+        gpsTime: NumberLong(1614430893000),
+        speed: 26.5
+    },
+    {
+        course: NumberInt(9090),
+        location: {
+            loc: [
+                107.966060288857,
+                26.5808305118188
+            ]
+        },
+        gpsTime: NumberLong(1614430924000),
+        speed: 20.8
+    },
+    {
+        course: NumberInt(9090),
+        location: {
+            loc: [
+                107.965696410697,
+                26.5807826282625
+            ]
+        },
+        gpsTime: NumberLong(1614430954000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9090),
+        location: {
+            loc: [
+                107.965688391277,
+                26.5807796090854
+            ]
+        },
+        gpsTime: NumberLong(1614430983000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9090),
+        location: {
+            loc: [
+                107.965438789645,
+                26.5807160092538
+            ]
+        },
+        gpsTime: NumberLong(1614430991000),
+        speed: 21.2
+    },
+    {
+        course: NumberInt(9090),
+        location: {
+            loc: [
+                107.965357591124,
+                26.5806398216426
+            ]
+        },
+        gpsTime: NumberLong(1614430993000),
+        speed: 22.4
+    },
+    {
+        course: NumberInt(9090),
+        location: {
+            loc: [
+                107.964630785821,
+                26.5793072358425
+            ]
+        },
+        gpsTime: NumberLong(1614431012000),
+        speed: 30.9
+    },
+    {
+        course: NumberInt(9090),
+        location: {
+            loc: [
+                107.963498036331,
+                26.577730734296
+            ]
+        },
+        gpsTime: NumberLong(1614431034000),
+        speed: 35.2
+    },
+    {
+        course: NumberInt(9100),
+        location: {
+            loc: [
+                107.962957763828,
+                26.5773845021012
+            ]
+        },
+        gpsTime: NumberLong(1614431041000),
+        speed: 28.8
+    },
+    {
+        course: NumberInt(9100),
+        location: {
+            loc: [
+                107.961800063847,
+                26.5765229088339
+            ]
+        },
+        gpsTime: NumberLong(1614431065000),
+        speed: 33.5
+    },
+    {
+        course: NumberInt(9100),
+        location: {
+            loc: [
+                107.961535440262,
+                26.5761033520709
+            ]
+        },
+        gpsTime: NumberLong(1614431071000),
+        speed: 30.0
+    },
+    {
+        course: NumberInt(9100),
+        location: {
+            loc: [
+                107.961504366043,
+                26.5760342895199
+            ]
+        },
+        gpsTime: NumberLong(1614431072000),
+        speed: 29.4
+    },
+    {
+        course: NumberInt(9100),
+        location: {
+            loc: [
+                107.961406117461,
+                26.5755731248266
+            ]
+        },
+        gpsTime: NumberLong(1614431079000),
+        speed: 26.9
+    },
+    {
+        course: NumberInt(9100),
+        location: {
+            loc: [
+                107.961206536339,
+                26.5733109744621
+            ]
+        },
+        gpsTime: NumberLong(1614431101000),
+        speed: 42.8
+    },
+    {
+        course: NumberInt(9100),
+        location: {
+            loc: [
+                107.961144333149,
+                26.5722219829467
+            ]
+        },
+        gpsTime: NumberLong(1614431131000),
+        speed: 22.4
+    },
+    {
+        course: NumberInt(9100),
+        location: {
+            loc: [
+                107.961502018115,
+                26.5701531003847
+            ]
+        },
+        gpsTime: NumberLong(1614431161000),
+        speed: 34.5
+    },
+    {
+        course: NumberInt(9110),
+        location: {
+            loc: [
+                107.961870713396,
+                26.5677553013759
+            ]
+        },
+        gpsTime: NumberLong(1614431191000),
+        speed: 26.4
+    },
+    {
+        course: NumberInt(9110),
+        location: {
+            loc: [
+                107.961956858036,
+                26.5668776304584
+            ]
+        },
+        gpsTime: NumberLong(1614431206000),
+        speed: 23.5
+    },
+    {
+        course: NumberInt(9110),
+        location: {
+            loc: [
+                107.961889699385,
+                26.5667744895124
+            ]
+        },
+        gpsTime: NumberLong(1614431208000),
+        speed: 24.5
+    },
+    {
+        course: NumberInt(9110),
+        location: {
+            loc: [
+                107.961832567785,
+                26.5667423615255
+            ]
+        },
+        gpsTime: NumberLong(1614431209000),
+        speed: 25.3
+    },
+    {
+        course: NumberInt(9110),
+        location: {
+            loc: [
+                107.960647893301,
+                26.5665656588019
+            ]
+        },
+        gpsTime: NumberLong(1614431221000),
+        speed: 45.7
+    },
+    {
+        course: NumberInt(9110),
+        location: {
+            loc: [
+                107.960521611292,
+                26.5665493729814
+            ]
+        },
+        gpsTime: NumberLong(1614431222000),
+        speed: 44.8
+    },
+    {
+        course: NumberInt(9110),
+        location: {
+            loc: [
+                107.956942858794,
+                26.566049497619
+            ]
+        },
+        gpsTime: NumberLong(1614431251000),
+        speed: 48.3
+    },
+    {
+        course: NumberInt(9110),
+        location: {
+            loc: [
+                107.953867573079,
+                26.5654331086269
+            ]
+        },
+        gpsTime: NumberLong(1614431276000),
+        speed: 46.7
+    },
+    {
+        course: NumberInt(9120),
+        location: {
+            loc: [
+                107.953293431711,
+                26.5651639761337
+            ]
+        },
+        gpsTime: NumberLong(1614431281000),
+        speed: 47.1
+    },
+    {
+        course: NumberInt(9120),
+        location: {
+            loc: [
+                107.952853560746,
+                26.5648641306801
+            ]
+        },
+        gpsTime: NumberLong(1614431285000),
+        speed: 51.3
+    },
+    {
+        course: NumberInt(9120),
+        location: {
+            loc: [
+                107.951972822053,
+                26.5639495069575
+            ]
+        },
+        gpsTime: NumberLong(1614431294000),
+        speed: 55.5
+    },
+    {
+        course: NumberInt(9120),
+        location: {
+            loc: [
+                107.950924741131,
+                26.5619467538605
+            ]
+        },
+        gpsTime: NumberLong(1614431311000),
+        speed: 44.1
+    },
+    {
+        course: NumberInt(9120),
+        location: {
+            loc: [
+                107.950217370564,
+                26.5607375747251
+            ]
+        },
+        gpsTime: NumberLong(1614431341000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9120),
+        location: {
+            loc: [
+                107.9502143652,
+                26.5607395686487
+            ]
+        },
+        gpsTime: NumberLong(1614431371000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9120),
+        location: {
+            loc: [
+                107.950135215187,
+                26.5606394325309
+            ]
+        },
+        gpsTime: NumberLong(1614431401000),
+        speed: 22.7
+    },
+    {
+        course: NumberInt(9120),
+        location: {
+            loc: [
+                107.947580570024,
+                26.5583560231947
+            ]
+        },
+        gpsTime: NumberLong(1614431431000),
+        speed: 52.2
+    },
+    {
+        course: NumberInt(9130),
+        location: {
+            loc: [
+                107.945395746655,
+                26.5551526620224
+            ]
+        },
+        gpsTime: NumberLong(1614431461000),
+        speed: 49.6
+    },
+    {
+        course: NumberInt(9130),
+        location: {
+            loc: [
+                107.943212140481,
+                26.5520494897864
+            ]
+        },
+        gpsTime: NumberLong(1614431491000),
+        speed: 52.5
+    },
+    {
+        course: NumberInt(9130),
+        location: {
+            loc: [
+                107.943062892653,
+                26.5516803068926
+            ]
+        },
+        gpsTime: NumberLong(1614431494000),
+        speed: 51.7
+    },
+    {
+        course: NumberInt(9130),
+        location: {
+            loc: [
+                107.942527988891,
+                26.5499467303491
+            ]
+        },
+        gpsTime: NumberLong(1614431510000),
+        speed: 29.2
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.942319668548,
+                26.5497574268498
+            ]
+        },
+        gpsTime: NumberLong(1614431514000),
+        speed: 24.7
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.942294623781,
+                26.5496244093515
+            ]
+        },
+        gpsTime: NumberLong(1614431516000),
+        speed: 31.9
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.9422174831,
+                26.5491633645893
+            ]
+        },
+        gpsTime: NumberLong(1614431521000),
+        speed: 38.6
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.942176417492,
+                26.5490763137285
+            ]
+        },
+        gpsTime: NumberLong(1614431522000),
+        speed: 36.9
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.942046218314,
+                26.5489441282307
+            ]
+        },
+        gpsTime: NumberLong(1614431524000),
+        speed: 35.2
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.94126505077,
+                26.5483469964783
+            ]
+        },
+        gpsTime: NumberLong(1614431534000),
+        speed: 36.4
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.941084774993,
+                26.5480317696744
+            ]
+        },
+        gpsTime: NumberLong(1614431538000),
+        speed: 36.1
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.940740214638,
+                26.5467834531155
+            ]
+        },
+        gpsTime: NumberLong(1614431551000),
+        speed: 38.1
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.940615019122,
+                26.5464463193907
+            ]
+        },
+        gpsTime: NumberLong(1614431556000),
+        speed: 14.3
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.940577966473,
+                26.5464342645578
+            ]
+        },
+        gpsTime: NumberLong(1614431557000),
+        speed: 14.4
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.940538912012,
+                26.5464382039012
+            ]
+        },
+        gpsTime: NumberLong(1614431558000),
+        speed: 14.4
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.938320954139,
+                26.5470048035071
+            ]
+        },
+        gpsTime: NumberLong(1614431581000),
+        speed: 32.9
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.938106677318,
+                26.5470054953975
+            ]
+        },
+        gpsTime: NumberLong(1614431584000),
+        speed: 18.7
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.938063620899,
+                26.5469874369016
+            ]
+        },
+        gpsTime: NumberLong(1614431585000),
+        speed: 15.8
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.938034581979,
+                26.546959400267
+            ]
+        },
+        gpsTime: NumberLong(1614431586000),
+        speed: 14.8
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.937983509993,
+                26.5468473469046
+            ]
+        },
+        gpsTime: NumberLong(1614431589000),
+        speed: 19.1
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.937938444192,
+                26.5467073071355
+            ]
+        },
+        gpsTime: NumberLong(1614431592000),
+        speed: 18.5
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.937901395091,
+                26.5466772596087
+            ]
+        },
+        gpsTime: NumberLong(1614431593000),
+        speed: 18.7
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.937854334324,
+                26.5466651947487
+            ]
+        },
+        gpsTime: NumberLong(1614431594000),
+        speed: 17.7
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.937807274472,
+                26.5466671275302
+            ]
+        },
+        gpsTime: NumberLong(1614431595000),
+        speed: 16.8
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.937454834262,
+                26.5467636127304
+            ]
+        },
+        gpsTime: NumberLong(1614431601000),
+        speed: 20.0
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.937364723464,
+                26.5468024794691
+            ]
+        },
+        gpsTime: NumberLong(1614431611000),
+        speed: 2.2
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.937396762982,
+                26.5467915263095
+            ]
+        },
+        gpsTime: NumberLong(1614431641000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.93742479833,
+                26.5467945651214
+            ]
+        },
+        gpsTime: NumberLong(1614431671000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.936935206133,
+                26.5470838322473
+            ]
+        },
+        gpsTime: NumberLong(1614431690000),
+        speed: 14.5
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.936894155236,
+                26.5470777765608
+            ]
+        },
+        gpsTime: NumberLong(1614431691000),
+        speed: 13.7
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.936790024705,
+                26.5470316410053
+            ]
+        },
+        gpsTime: NumberLong(1614431694000),
+        speed: 16.1
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.936637833239,
+                26.5469364485761
+            ]
+        },
+        gpsTime: NumberLong(1614431698000),
+        speed: 15.0
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.936629821628,
+                26.546904443196
+            ]
+        },
+        gpsTime: NumberLong(1614431699000),
+        speed: 13.4
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.93663582715,
+                26.5468734568469
+            ]
+        },
+        gpsTime: NumberLong(1614431700000),
+        speed: 14.0
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.936652845924,
+                26.5468394861211
+            ]
+        },
+        gpsTime: NumberLong(1614431701000),
+        speed: 17.7
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.936802018177,
+                26.5466647217428
+            ]
+        },
+        gpsTime: NumberLong(1614431705000),
+        speed: 27.2
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.937197486482,
+                26.5463153311531
+            ]
+        },
+        gpsTime: NumberLong(1614431713000),
+        speed: 30.9
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.937197486482,
+                26.5463153311531
+            ]
+        },
+        gpsTime: NumberLong(1614431713000),
+        speed: 30.9
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.937758185009,
+                26.5462001398708
+            ]
+        },
+        gpsTime: NumberLong(1614431721000),
+        speed: 14.0
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.937769200805,
+                26.5462311500398
+            ]
+        },
+        gpsTime: NumberLong(1614431722000),
+        speed: 15.2
+    },
+    {
+        course: NumberInt(9140),
+        location: {
+            loc: [
+                107.937797242204,
+                26.546330172425
+            ]
+        },
+        gpsTime: NumberLong(1614431724000),
+        speed: 25.6
+    },
+    {
+        course: NumberInt(9150),
+        location: {
+            loc: [
+                107.937954471298,
+                26.5468213100239
+            ]
+        },
+        gpsTime: NumberLong(1614431731000),
+        speed: 24.6
+    },
+    {
+        course: NumberInt(9150),
+        location: {
+            loc: [
+                107.938010549346,
+                26.5469283713448
+            ]
+        },
+        gpsTime: NumberLong(1614431733000),
+        speed: 20.5
+    },
+    {
+        course: NumberInt(9150),
+        location: {
+            loc: [
+                107.938051604128,
+                26.5469644237325
+            ]
+        },
+        gpsTime: NumberLong(1614431734000),
+        speed: 19.7
+    },
+    {
+        course: NumberInt(9150),
+        location: {
+            loc: [
+                107.938100668254,
+                26.5469824908102
+            ]
+        },
+        gpsTime: NumberLong(1614431735000),
+        speed: 17.9
+    },
+    {
+        course: NumberInt(9150),
+        location: {
+            loc: [
+                107.938213814215,
+                26.5469836529662
+            ]
+        },
+        gpsTime: NumberLong(1614431737000),
+        speed: 22.7
+    },
+    {
+        course: NumberInt(9150),
+        location: {
+            loc: [
+                107.938808585944,
+                26.5468975303701
+            ]
+        },
+        gpsTime: NumberLong(1614431744000),
+        speed: 35.0
+    },
+    {
+        course: NumberInt(9150),
+        location: {
+            loc: [
+                107.940586977192,
+                26.5464012841946
+            ]
+        },
+        gpsTime: NumberLong(1614431762000),
+        speed: 17.8
+    },
+    {
+        course: NumberInt(9150),
+        location: {
+            loc: [
+                107.940586977192,
+                26.5464012841946
+            ]
+        },
+        gpsTime: NumberLong(1614431762000),
+        speed: 17.8
+    },
+    {
+        course: NumberInt(9150),
+        location: {
+            loc: [
+                107.940632041738,
+                26.5464243494316
+            ]
+        },
+        gpsTime: NumberLong(1614431763000),
+        speed: 20.9
+    },
+    {
+        course: NumberInt(9150),
+        location: {
+            loc: [
+                107.940669096217,
+                26.5464663990833
+            ]
+        },
+        gpsTime: NumberLong(1614431764000),
+        speed: 22.2
+    },
+    {
+        course: NumberInt(9150),
+        location: {
+            loc: [
+                107.940693133139,
+                26.5465204266287
+            ]
+        },
+        gpsTime: NumberLong(1614431765000),
+        speed: 25.6
+    },
+    {
+        course: NumberInt(9150),
+        location: {
+            loc: [
+                107.941216974533,
+                26.5482189434638
+            ]
+        },
+        gpsTime: NumberLong(1614431784000),
+        speed: 38.0
+    },
+    {
+        course: NumberInt(9150),
+        location: {
+            loc: [
+                107.941482373739,
+                26.5485293059711
+            ]
+        },
+        gpsTime: NumberLong(1614431788000),
+        speed: 40.3
+    },
+    {
+        course: NumberInt(9150),
+        location: {
+            loc: [
+                107.941837903674,
+                26.5487748256612
+            ]
+        },
+        gpsTime: NumberLong(1614431792000),
+        speed: 40.2
+    },
+    {
+        course: NumberInt(9150),
+        location: {
+            loc: [
+                107.941935048316,
+                26.5488219720134
+            ]
+        },
+        gpsTime: NumberLong(1614431793000),
+        speed: 38.9
+    },
+    {
+        course: NumberInt(9150),
+        location: {
+            loc: [
+                107.942102299388,
+                26.5489212217842
+            ]
+        },
+        gpsTime: NumberLong(1614431795000),
+        speed: 34.0
+    },
+    {
+        course: NumberInt(9150),
+        location: {
+            loc: [
+                107.942218478314,
+                26.5490553847473
+            ]
+        },
+        gpsTime: NumberLong(1614431797000),
+        speed: 34.2
+    },
+    {
+        course: NumberInt(9150),
+        location: {
+            loc: [
+                107.942281580862,
+                26.5492164583479
+            ]
+        },
+        gpsTime: NumberLong(1614431799000),
+        speed: 34.0
+    },
+    {
+        course: NumberInt(9150),
+        location: {
+            loc: [
+                107.942414812451,
+                26.549806571615
+            ]
+        },
+        gpsTime: NumberLong(1614431807000),
+        speed: 24.7
+    },
+    {
+        course: NumberInt(9150),
+        location: {
+            loc: [
+                107.942789384572,
+                26.5500281403689
+            ]
+        },
+        gpsTime: NumberLong(1614431815000),
+        speed: 19.8
+    },
+    {
+        course: NumberInt(9150),
+        location: {
+            loc: [
+                107.942832456011,
+                26.5501441906945
+            ]
+        },
+        gpsTime: NumberLong(1614431817000),
+        speed: 29.1
+    },
+    {
+        course: NumberInt(9150),
+        location: {
+            loc: [
+                107.942921610165,
+                26.5504882774983
+            ]
+        },
+        gpsTime: NumberLong(1614431821000),
+        speed: 39.2
+    },
+    {
+        course: NumberInt(9160),
+        location: {
+            loc: [
+                107.943693909377,
+                26.5525871965823
+            ]
+        },
+        gpsTime: NumberLong(1614431842000),
+        speed: 40.0
+    },
+    {
+        course: NumberInt(9160),
+        location: {
+            loc: [
+                107.944383028568,
+                26.5533802205828
+            ]
+        },
+        gpsTime: NumberLong(1614431852000),
+        speed: 40.8
+    },
+    {
+        course: NumberInt(9160),
+        location: {
+            loc: [
+                107.946104984478,
+                26.5565276767474
+            ]
+        },
+        gpsTime: NumberLong(1614431882000),
+        speed: 51.5
+    },
+    {
+        course: NumberInt(9160),
+        location: {
+            loc: [
+                107.947820983673,
+                26.5583694591715
+            ]
+        },
+        gpsTime: NumberLong(1614431901000),
+        speed: 52.4
+    },
+    {
+        course: NumberInt(9160),
+        location: {
+            loc: [
+                107.948846824066,
+                26.5592482144209
+            ]
+        },
+        gpsTime: NumberLong(1614431911000),
+        speed: 50.6
+    },
+    {
+        course: NumberInt(9170),
+        location: {
+            loc: [
+                107.95046082043,
+                26.5608180303803
+            ]
+        },
+        gpsTime: NumberLong(1614431932000),
+        speed: 30.3
+    },
+    {
+        course: NumberInt(9170),
+        location: {
+            loc: [
+                107.950906684051,
+                26.5615397815879
+            ]
+        },
+        gpsTime: NumberLong(1614431941000),
+        speed: 32.8
+    },
+    {
+        course: NumberInt(9170),
+        location: {
+            loc: [
+                107.951912685458,
+                26.5635594468642
+            ]
+        },
+        gpsTime: NumberLong(1614431971000),
+        speed: 22.8
+    },
+    {
+        course: NumberInt(9170),
+        location: {
+            loc: [
+                107.9531250868,
+                26.5648656792501
+            ]
+        },
+        gpsTime: NumberLong(1614431994000),
+        speed: 44.8
+    },
+    {
+        course: NumberInt(9170),
+        location: {
+            loc: [
+                107.953771371501,
+                26.565225942264
+            ]
+        },
+        gpsTime: NumberLong(1614432000000),
+        speed: 40.5
+    },
+    {
+        course: NumberInt(9170),
+        location: {
+            loc: [
+                107.953870569635,
+                26.5652721388341
+            ]
+        },
+        gpsTime: NumberLong(1614432001000),
+        speed: 39.1
+    },
+    {
+        course: NumberInt(9170),
+        location: {
+            loc: [
+                107.955232314631,
+                26.5656629093095
+            ]
+        },
+        gpsTime: NumberLong(1614432015000),
+        speed: 30.2
+    },
+    {
+        course: NumberInt(9180),
+        location: {
+            loc: [
+                107.956961889827,
+                26.5658985611799
+            ]
+        },
+        gpsTime: NumberLong(1614432031000),
+        speed: 40.9
+    },
+    {
+        course: NumberInt(9180),
+        location: {
+            loc: [
+                107.96008663428,
+                26.5663214178711
+            ]
+        },
+        gpsTime: NumberLong(1614432062000),
+        speed: 24.7
+    },
+    {
+        course: NumberInt(9180),
+        location: {
+            loc: [
+                107.961244223669,
+                26.5664880382843
+            ]
+        },
+        gpsTime: NumberLong(1614432091000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9180),
+        location: {
+            loc: [
+                107.961968870038,
+                26.5666146971991
+            ]
+        },
+        gpsTime: NumberLong(1614432112000),
+        speed: 24.6
+    },
+    {
+        course: NumberInt(9180),
+        location: {
+            loc: [
+                107.962120221979,
+                26.5667400311864
+            ]
+        },
+        gpsTime: NumberLong(1614432115000),
+        speed: 25.0
+    },
+    {
+        course: NumberInt(9180),
+        location: {
+            loc: [
+                107.962166333842,
+                26.5668551217484
+            ]
+        },
+        gpsTime: NumberLong(1614432117000),
+        speed: 24.0
+    },
+    {
+        course: NumberInt(9180),
+        location: {
+            loc: [
+                107.962170356709,
+                26.5670900965355
+            ]
+        },
+        gpsTime: NumberLong(1614432120000),
+        speed: 41.6
+    },
+    {
+        course: NumberInt(9180),
+        location: {
+            loc: [
+                107.962138296743,
+                26.5673159885703
+            ]
+        },
+        gpsTime: NumberLong(1614432122000),
+        speed: 47.1
+    },
+    {
+        course: NumberInt(9180),
+        location: {
+            loc: [
+                107.961563182287,
+                26.5705991782586
+            ]
+        },
+        gpsTime: NumberLong(1614432152000),
+        speed: 54.2
+    },
+    {
+        course: NumberInt(9190),
+        location: {
+            loc: [
+                107.96132874008,
+                26.5720884264052
+            ]
+        },
+        gpsTime: NumberLong(1614432182000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9190),
+        location: {
+            loc: [
+                107.9613257336,
+                26.5720934187718
+            ]
+        },
+        gpsTime: NumberLong(1614432212000),
+        speed: 2.2
+    },
+    {
+        course: NumberInt(9190),
+        location: {
+            loc: [
+                107.961390019008,
+                26.5745062328867
+            ]
+        },
+        gpsTime: NumberLong(1614432242000),
+        speed: 43.6
+    },
+    {
+        course: NumberInt(9190),
+        location: {
+            loc: [
+                107.961512370374,
+                26.5757983398582
+            ]
+        },
+        gpsTime: NumberLong(1614432254000),
+        speed: 42.9
+    },
+    {
+        course: NumberInt(9190),
+        location: {
+            loc: [
+                107.961680774624,
+                26.5761996755747
+            ]
+        },
+        gpsTime: NumberLong(1614432258000),
+        speed: 41.8
+    },
+    {
+        course: NumberInt(9190),
+        location: {
+            loc: [
+                107.962003531224,
+                26.5766093701893
+            ]
+        },
+        gpsTime: NumberLong(1614432263000),
+        speed: 37.5
+    },
+    {
+        course: NumberInt(9190),
+        location: {
+            loc: [
+                107.962299219064,
+                26.5768390290832
+            ]
+        },
+        gpsTime: NumberLong(1614432268000),
+        speed: 16.3
+    },
+    {
+        course: NumberInt(9190),
+        location: {
+            loc: [
+                107.962472622493,
+                26.576950419902
+            ]
+        },
+        gpsTime: NumberLong(1614432272000),
+        speed: 22.7
+    },
+    {
+        course: NumberInt(9190),
+        location: {
+            loc: [
+                107.963820796515,
+                26.5778564854759
+            ]
+        },
+        gpsTime: NumberLong(1614432291000),
+        speed: 37.0
+    },
+    {
+        course: NumberInt(9190),
+        location: {
+            loc: [
+                107.964163625245,
+                26.5782892473983
+            ]
+        },
+        gpsTime: NumberLong(1614432298000),
+        speed: 13.5
+    },
+    {
+        course: NumberInt(9190),
+        location: {
+            loc: [
+                107.964245828474,
+                26.5784604217953
+            ]
+        },
+        gpsTime: NumberLong(1614432302000),
+        speed: 20.6
+    },
+    {
+        course: NumberInt(9200),
+        location: {
+            loc: [
+                107.965416724455,
+                26.5805029829649
+            ]
+        },
+        gpsTime: NumberLong(1614432329000),
+        speed: 23.4
+    },
+    {
+        course: NumberInt(9200),
+        location: {
+            loc: [
+                107.96552799413,
+                26.5805622460825
+            ]
+        },
+        gpsTime: NumberLong(1614432331000),
+        speed: 23.0
+    },
+    {
+        course: NumberInt(9200),
+        location: {
+            loc: [
+                107.96559615865,
+                26.5805834093977
+            ]
+        },
+        gpsTime: NumberLong(1614432332000),
+        speed: 26.9
+    },
+    {
+        course: NumberInt(9200),
+        location: {
+            loc: [
+                107.966096366489,
+                26.5806696208811
+            ]
+        },
+        gpsTime: NumberLong(1614432338000),
+        speed: 29.5
+    },
+    {
+        course: NumberInt(9200),
+        location: {
+            loc: [
+                107.968495264807,
+                26.5810145391536
+            ]
+        },
+        gpsTime: NumberLong(1614432362000),
+        speed: 36.6
+    },
+    {
+        course: NumberInt(9200),
+        location: {
+            loc: [
+                107.969020580564,
+                26.5810988554222
+            ]
+        },
+        gpsTime: NumberLong(1614432392000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9200),
+        location: {
+            loc: [
+                107.969019578347,
+                26.5811038522445
+            ]
+        },
+        gpsTime: NumberLong(1614432422000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9200),
+        location: {
+            loc: [
+                107.969851679664,
+                26.5812429517612
+            ]
+        },
+        gpsTime: NumberLong(1614432452000),
+        speed: 23.1
+    },
+    {
+        course: NumberInt(9200),
+        location: {
+            loc: [
+                107.972512530138,
+                26.5816347937419
+            ]
+        },
+        gpsTime: NumberLong(1614432482000),
+        speed: 36.4
+    },
+    {
+        course: NumberInt(9200),
+        location: {
+            loc: [
+                107.97357832834,
+                26.5817785858164
+            ]
+        },
+        gpsTime: NumberLong(1614432512000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9200),
+        location: {
+            loc: [
+                107.973578328164,
+                26.5817755861966
+            ]
+        },
+        gpsTime: NumberLong(1614432542000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9200),
+        location: {
+            loc: [
+                107.974548903771,
+                26.5819271499398
+            ]
+        },
+        gpsTime: NumberLong(1614432572000),
+        speed: 34.2
+    },
+    {
+        course: NumberInt(9210),
+        location: {
+            loc: [
+                107.977481829778,
+                26.5823610310471
+            ]
+        },
+        gpsTime: NumberLong(1614432602000),
+        speed: 30.0
+    },
+    {
+        course: NumberInt(9210),
+        location: {
+            loc: [
+                107.977871898422,
+                26.5824000957017
+            ]
+        },
+        gpsTime: NumberLong(1614432632000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9210),
+        location: {
+            loc: [
+                107.977985209511,
+                26.5824114055764
+            ]
+        },
+        gpsTime: NumberLong(1614432662000),
+        speed: 15.2
+    },
+    {
+        course: NumberInt(9210),
+        location: {
+            loc: [
+                107.980412953299,
+                26.5828170867579
+            ]
+        },
+        gpsTime: NumberLong(1614432692000),
+        speed: 43.2
+    },
+    {
+        course: NumberInt(9210),
+        location: {
+            loc: [
+                107.983892829345,
+                26.5833438633479
+            ]
+        },
+        gpsTime: NumberLong(1614432722000),
+        speed: 36.0
+    },
+    {
+        course: NumberInt(9210),
+        location: {
+            loc: [
+                107.984645998219,
+                26.5834800038481
+            ]
+        },
+        gpsTime: NumberLong(1614432733000),
+        speed: 13.5
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.984190691584,
+                26.5834946966819
+            ]
+        },
+        gpsTime: NumberLong(1614432752000),
+        speed: 2.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.984020213637,
+                26.5836761861961
+            ]
+        },
+        gpsTime: NumberLong(1614432782000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.984008181932,
+                26.5837231459416
+            ]
+        },
+        gpsTime: NumberLong(1614432812000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.983993138606,
+                26.5837191034171
+            ]
+        },
+        gpsTime: NumberLong(1614432842000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.983969069376,
+                26.5837140352119
+            ]
+        },
+        gpsTime: NumberLong(1614432872000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614432907000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614432937000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614432955000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614432967000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614432997000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614433027000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614433057000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614433237000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614433417000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614433598000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614433778000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614433958000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614434138000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614434318000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614434499000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614434679000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614434859000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614435039000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614435219000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614435399000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614435580000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614435760000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614435940000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614436120000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614436300000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614436480000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614436660000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614436841000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614437021000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614437201000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614437381000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614437561000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614437741000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614437922000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614438102000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614438282000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614438462000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614438642000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614438823000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614439003000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614439183000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614439363000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614439543000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614439724000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614439904000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614440084000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614440264000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614440444000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614440624000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614440804000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614440985000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614441165000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614441345000),
+        speed: 0.0
+    },
+    {
+        course: NumberInt(9220),
+        location: {
+            loc: [
+                107.98395904042,
+                26.5837100070338
+            ]
+        },
+        gpsTime: NumberLong(1614441525000),
+        speed: 0.0
+    }
+]
